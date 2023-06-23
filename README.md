@@ -2,3 +2,7 @@
 TEST
 validate 
 compile
+package
+move
+git
+git hub
