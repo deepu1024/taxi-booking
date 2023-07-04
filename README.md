@@ -10,3 +10,7 @@ jenkins
 master
 rolex
 slave
+slave2
+deepAK
+sai
+vishnu
